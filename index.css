@@ -1,2 +1,10 @@
 :root {
+  --spacer-unit: 6px;
+  --spacer-smallest: calc(1 * var(--spacer-unit));
+  --spacer-smaller: calc(2 * var(--spacer-unit));
+  --spacer-small: calc(3 * var(--spacer-unit));
+  --spacer-regular: calc(4 * var(--spacer-unit));
+  --spacer-big: calc(6 * var(--spacer-unit));
+  --spacer-bigger: calc(8 * var(--spacer-unit));
+  --spacer-biggest: calc(12 * var(--spacer-unit));
 }
