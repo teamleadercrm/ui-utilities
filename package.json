@@ -1,0 +1,22 @@
+{
+  "name": "@teamleader/ui-utilities",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Teamleader UI utilities",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamleadercrm/ui-utilities.git"
+  },
+  "keywords": [
+    "teamleader",
+    "ui",
+    "utilities"
+  ],
+  "author": "Teamleader <development@teamleader.eu> (https://www.teamleader.eu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamleadercrm/ui-utilities/issues"
+  },
+  "homepage": "https://github.com/teamleadercrm/ui-utilities#readme"
+}
