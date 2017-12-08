@@ -11,9 +11,6 @@
   --spacer-bigger: calc(16 * var(--spacer-unit));
   --spacer-biggest: calc(24 * var(--spacer-unit));
 
-  --standard-increment-mobile: calc(5.6 * var(--unit));
-  --standard-increment-desktop: calc(6.4 * var(--unit));
-
   --z-index-higher: 200;
   --z-index-high: 100;
   --z-index-normal: 1;
@@ -26,12 +23,20 @@
   --box-shadow-400: 0 24px 32px 0 color(var(--color-teal-darkest) a(42%));
 }
 
-.reset {
+.reset-box-sizing {
   box-sizing: border-box;
+}
+
+.reset-font-smoothing {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   text-size-adjust: 100%;
+}
+
+.reset {
+  composes: reset-box-sizing;
+  composes: reset-font-smoothing;
 }
 
 /* Box-shadows */
