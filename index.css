@@ -11,9 +11,6 @@
   --spacer-bigger: calc(16 * var(--spacer-unit));
   --spacer-biggest: calc(24 * var(--spacer-unit));
 
-  --standard-increment-mobile: calc(5.6 * var(--unit));
-  --standard-increment-desktop: calc(6.4 * var(--unit));
-
   --z-index-higher: 200;
   --z-index-high: 100;
   --z-index-normal: 1;
