@@ -21,12 +21,20 @@
   --z-index-lower: -200;
 }
 
-.reset {
+.reset-box-sizing {
   box-sizing: border-box;
+}
+
+.reset-font-smoothing {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   text-size-adjust: 100%;
+}
+
+.reset {
+  composes: reset-box-sizing;
+  composes: reset-font-smoothing;
 }
 
 /* Orientation */
