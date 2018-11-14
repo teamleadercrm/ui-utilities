@@ -11,6 +11,11 @@
   --spacer-bigger: calc(16 * var(--spacer-unit));
   --spacer-biggest: calc(24 * var(--spacer-unit));
 
+  --border-radius-small: 2px;
+  --border-radius-medium: 4px;
+  --border-radius-large: 8px;
+  --border-radius-round: 50%;
+
   --box-shadow-100: 0 1px 1px 0 color(var(--color-teal-darkest) a(12%));
   --box-shadow-200: 0 4px 6px 0 color(var(--color-teal-darkest) a(32%));
   --box-shadow-300: 0 8px 10px 0 color(var(--color-teal-darkest) a(32%));
