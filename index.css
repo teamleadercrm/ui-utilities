@@ -11,12 +11,6 @@
   --spacer-bigger: calc(16 * var(--spacer-unit));
   --spacer-biggest: calc(24 * var(--spacer-unit));
 
-  --z-index-higher: 200;
-  --z-index-high: 100;
-  --z-index-normal: 1;
-  --z-index-low: -100;
-  --z-index-lower: -200;
-
   --border-radius-small: 2px;
   --border-radius-medium: 4px;
   --border-radius-large: 8px;
