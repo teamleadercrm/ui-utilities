@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## [0.1.1] - 2019-03-12
+
+### Changed
+
+- `Color`: changed `post-css` variables to `rgba` notation ([@TaraldRotsaert](https://github.com/TaraldRotsaert) in [#8](https://github.com/teamleadercrm/ui-utilities/pull/8))
+
 ## [0.1.0] - 2018-11-14
 
 ### Added
