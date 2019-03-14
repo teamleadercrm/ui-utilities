@@ -2,6 +2,8 @@
 
 ### Added
 
+- `Disable user select`: added a `.disable-user-select` class to prevent the user from selecting text. ([@driesd](https://github.com/driesd) in [#10](https://github.com/teamleadercrm/ui-utilities/pull/10))
+
 ### Changed
 
 ### Deprecated
