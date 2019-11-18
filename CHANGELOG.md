@@ -2,8 +2,6 @@
 
 ### Added
 
-- `Disable user select`: added a `.disable-user-select` class to prevent the user from selecting text. ([@driesd](https://github.com/driesd) in [#10](https://github.com/teamleadercrm/ui-utilities/pull/10))
-
 ### Changed
 
 ### Deprecated
@@ -11,6 +9,12 @@
 ### Removed
 
 ### Fixed
+
+## [0.1.2] - 2019-11-18
+
+### Added
+- `Clearfix`: added `clearfix` styling ([@driesd](https://github.com/driesd) in [#11](https://github.com/teamleadercrm/ui-utilities/pull/11))
+- `Disable user select`: added a `.disable-user-select` class to prevent the user from selecting text. ([@driesd](https://github.com/driesd) in [#10](https://github.com/teamleadercrm/ui-utilities/pull/10))
 
 ## [0.1.1] - 2019-03-12
 
