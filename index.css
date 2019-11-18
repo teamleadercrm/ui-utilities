@@ -87,6 +87,20 @@
   z-index: -1;
 }
 
+/* Clearfix */
+.cf {
+  *zoom: 1;
+}
+.cf:before, .cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+/* Disabling */
 .disable-user-select {
   -webkit-user-select: none;
   -moz-user-select: none;
