@@ -88,15 +88,16 @@
 }
 
 /* Clearfix */
-.cf {
+.clearfix {
   *zoom: 1;
 }
-.cf:before, .cf:after {
+.clearfix:before,
+.clearfix:after {
   content: " ";
   display: table;
 }
 
-.cf:after {
+.clearfix:after {
   clear: both;
 }
 
