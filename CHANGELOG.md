@@ -10,6 +10,12 @@
 
 ### Fixed
 
+## [0.2.0] - 2019-11-19
+
+### Changed
+
+- `Clearfix`: renamed `clearfix` selector from `.cf` to `.clearfix` ([@driesd](https://github.com/driesd) in [#11](https://github.com/teamleadercrm/ui-utilities/pull/11))
+
 ## [0.1.2] - 2019-11-18
 
 ### Added
