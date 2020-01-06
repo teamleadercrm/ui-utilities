@@ -4,13 +4,17 @@
 
 ### Changed
 
-- '@composes': remove all usages of `@composes` to avoid errors. ([@driesd](https://github.com/driesd) in [#15](https://github.com/teamleadercrm/ui-utilities/pull/15))
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+## [0.2.1] - 2020-01-06
+
+### Changed
+
+- `@composes`: remove all usages of `@composes` to avoid errors. ([@driesd](https://github.com/driesd) in [#15](https://github.com/teamleadercrm/ui-utilities/pull/15))
 
 ## [0.2.0] - 2019-11-19
 
