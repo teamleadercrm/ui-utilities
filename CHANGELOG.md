@@ -4,6 +4,8 @@
 
 ### Changed
 
+- '@composes': remove all usages of `@composes` to avoid errors. ([@driesd](https://github.com/driesd) in [#15](https://github.com/teamleadercrm/ui-utilities/pull/15))
+
 ### Deprecated
 
 ### Removed
