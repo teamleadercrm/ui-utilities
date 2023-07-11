@@ -10,6 +10,13 @@
 
 ### Fixed
 
+## [0.2.2] - 2023-07-11
+
+### Fixed
+
+- Aligned the box-shadows with our design specification ([@lowiebenoot](https://github.com/lowiebenoot) in [#16](https://github.com/teamleadercrm/ui-utilities/pull/16))
+
+
 ## [0.2.1] - 2020-01-06
 
 ### Changed
