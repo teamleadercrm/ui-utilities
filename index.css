@@ -17,9 +17,9 @@
   --border-radius-round: 50%;
 
   --box-shadow-100: 0 1px 1px 0 rgba(42, 59, 77, 0.12);
-  --box-shadow-200: 0 4px 6px 0 rgba(42, 59, 77, 0.32);
-  --box-shadow-300: 0 8px 10px 0 rgba(42, 59, 77, 0.32);
-  --box-shadow-400: 0 24px 32px 0 rgba(42, 59, 77, 0.42);
+  --box-shadow-200: 0 2px 6px 0 rgba(42, 59, 77, 0.24);
+  --box-shadow-300: 0 6px 10px 0 rgba(42, 59, 77, 0.24);
+  --box-shadow-400: 0 24px 32px 0 rgba(42, 59, 77, 0.36);
 }
 
 .reset-box-sizing {
